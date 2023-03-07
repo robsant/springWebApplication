@@ -5,22 +5,25 @@ import javax.persistence.*;
 
 @Entity
 //@Table(name="studenci")
-public class Student {
-  @Id
-  @GeneratedValue(strategy = GenerationType.AUTO)
-  private long ID;
-//@transient
-  private String name;
+//@DiscriminatorValue("b")
+public class Student extends Person{
 
+
+
+
+  //@transient
+  private String indexNumber;
+
+  public String getIndexNumber() {
+    return indexNumber;
+  }
+  public void setIndexNumber(String indexNumber) {
+    this.indexNumber = indexNumber;
+  }
   //@ManyToOne
   //@JoinColumn
   //private StudentType type;
-  public void setID(long ID) {
-    this.ID = ID;
-  }
-  public long getID() {
-    return ID;
-  }
+
 
 
   /*
