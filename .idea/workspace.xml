@@ -4,26 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4715195b-d49e-41a0-8a05-06773b723fea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/springWebApplication.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7c57a9dd-e7a3-4f45-afa9-9d29096850c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/springWebApplication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springWebApplication.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/opole/uni/springWebApp/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/opole/uni/springWebApp/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/opole/uni/springWebApp/repositories/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/opole/uni/springWebApp/repositories/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/opole/uni/springWebApp/services/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/opole/uni/springWebApp/services/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/opole/uni/springWebApp/services/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/opole/uni/springWebApp/services/StudentService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -36,7 +40,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2MgOAZHxx7HG2c82uZGX3H4iqtr" />
+  <component name="ProjectId" id="2MxXocXsXAvAv6hUBU7MRkLJXlu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,16 +63,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\przem\Desktop\springWebApplication\src\main" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4715195b-d49e-41a0-8a05-06773b723fea" name="Changes" comment="" />
-      <created>1678185618168</created>
+      <changelist id="7c57a9dd-e7a3-4f45-afa9-9d29096850c0" name="Changes" comment="" />
+      <created>1678710383556</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678185618168</updated>
-      <workItem from="1678185620314" duration="59000" />
-      <workItem from="1678709026486" duration="474000" />
+      <updated>1678710383556</updated>
+      <workItem from="1678710386766" duration="87000" />
+      <workItem from="1678785890475" duration="90000" />
+      <workItem from="1678786615661" duration="2907000" />
     </task>
     <servers />
   </component>
