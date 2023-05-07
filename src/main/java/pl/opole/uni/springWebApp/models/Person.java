@@ -1,6 +1,5 @@
 package pl.opole.uni.springWebApp.models;
 
-
 import javax.persistence.*;
 
 //@MappedSuperclass
@@ -44,8 +43,6 @@ public abstract class Person {
   public void setPesel(String pesel) {
     this.pesel = pesel;
   }
-
-
 
 
 
