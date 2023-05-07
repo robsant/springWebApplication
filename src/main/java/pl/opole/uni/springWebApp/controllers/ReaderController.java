@@ -4,18 +4,18 @@ package pl.opole.uni.springWebApp.controllers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import pl.opole.uni.springWebApp.models.Student;
-import pl.opole.uni.springWebApp.services.StudentService;
+import pl.opole.uni.springWebApp.models.Reader;
+import pl.opole.uni.springWebApp.services.ReaderService;
 
 import java.util.List;
 
 @RestController
-public class StudentController {
+public class ReaderController {
   @Autowired
-  private StudentService studentService;
-  @GetMapping("/students")
-  public List<Student> getAllStudents() {
-    return studentService.getAllItems();
+  private ReaderService readerService;
+  @GetMapping("/readers")
+  public List<Reader> getAllStudents() {
+    return readerService.getAllItems();
   }
 
 

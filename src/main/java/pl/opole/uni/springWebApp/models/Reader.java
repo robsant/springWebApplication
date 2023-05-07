@@ -6,7 +6,7 @@ import javax.persistence.*;
 @Entity
 //@Table(name="studenci")
 //@DiscriminatorValue("b")
-public class Student extends Person{
+public class Reader extends Person{
 
 
 

@@ -2,11 +2,11 @@ package pl.opole.uni.springWebApp.services;
 
 
 import org.springframework.stereotype.Service;
-import pl.opole.uni.springWebApp.models.Student;
-import pl.opole.uni.springWebApp.repositories.StudentRepository;
+import pl.opole.uni.springWebApp.models.Reader;
+import pl.opole.uni.springWebApp.repositories.ReaderRepository;
 
 @Service
-public class StudentService extends MainService<Student, StudentRepository> {
+public class ReaderService extends MainService<Reader, ReaderRepository> {
 
 /*@Autowired
   private StudentRepository studentRepository;

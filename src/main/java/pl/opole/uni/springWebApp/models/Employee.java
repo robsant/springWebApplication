@@ -5,7 +5,7 @@ import javax.persistence.*;
 
 @Entity
 //@DiscriminatorValue("a")
-public class Teacher extends Person{
+public class Employee extends Person{
 
 
 

@@ -1,6 +1,5 @@
 package pl.opole.uni.springWebApp.models;
 
-
 import javax.persistence.*;
 
 //@MappedSuperclass
