@@ -8,7 +8,6 @@ import javax.persistence.*;
 public class Employee extends Person{
 
 
-
   //@transient
   private String title;
   public String getTitle() {

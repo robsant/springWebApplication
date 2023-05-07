@@ -25,7 +25,6 @@ public class Reader extends Person{
   //private StudentType type;
 
 
-
   /*
   @Override
   public boolean equals(Object obj) {
